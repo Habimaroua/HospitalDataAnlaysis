@@ -1,0 +1,4 @@
+PatientID,Nom,Prenom,Age,Sexe,Adresse,Ville,Telephone,Email,DateAdmission,Service,Medecin,PressionArterielle,Cholesterol,Diagnostic
+1,Benali,Sara,34,F,Rue 12,Alger,0551...,sara@example.com,2025-01-02,Cardio,Dr. Ahmed,120,190,Stable
+2,Brahimi,Youssef,48,M,Rue 8,Oran,0662...,youssef@example.com,2025-01-05,Urgence,Dr. Leila,135,210,Critique
+3,Hamidi,Lina,29,F,Rue 4,Constantine,0770...,lina@example.com,2025-01-07,Neurologie,Dr. Sofiane,110,180,Bon état
